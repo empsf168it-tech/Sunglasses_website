@@ -1,0 +1,9 @@
+SOLARA SUNGLASSES - FIXED PACKAGE
+
+IMPORTANT:
+1. Extract the ENTIRE ZIP folder first.
+2. Keep index.html, contact.html, style.css, script.js and the assets folder together.
+3. Open index.html from the extracted folder.
+4. Do NOT open the HTML from inside the ZIP preview or as a separately downloaded HTML attachment, because that can leave style.css/assets behind and make the page appear as plain HTML.
+
+All HTML files are in the same folder as style.css and script.js, so relative paths work correctly.

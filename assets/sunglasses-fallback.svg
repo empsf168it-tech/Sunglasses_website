@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#efe4d3"/><stop offset="1" stop-color="#c8a06d"/></linearGradient><linearGradient id="lens" x1="0" x2="1"><stop stop-color="#1b1714"/><stop offset="1" stop-color="#6f5841"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#bg)"/><ellipse cx="600" cy="650" rx="420" ry="70" fill="#4c3524" opacity=".18"/>
+<g fill="url(#lens)" stroke="#1a1511" stroke-width="28"><path d="M165 365 Q220 280 380 300 L510 325 Q530 340 515 380 L470 500 Q445 550 360 545 L250 520 Q205 505 190 455Z"/><path d="M685 325 L820 300 Q980 280 1035 365 L1010 455 Q995 505 950 520 L840 545 Q755 550 730 500 L685 380 Q670 340 685 325Z"/></g>
+<path d="M505 345 Q600 300 695 345" fill="none" stroke="#1a1511" stroke-width="32" stroke-linecap="round"/><path d="M120 350 L60 330 M1080 350 L1140 330" stroke="#1a1511" stroke-width="28" stroke-linecap="round"/>
+<text x="600" y="760" text-anchor="middle" font-family="Arial" font-size="28" letter-spacing="8" fill="#3b2a1d">SOLARA OPTICAL OBJECT</text>
+</svg>
